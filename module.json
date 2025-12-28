@@ -1,6 +1,6 @@
 {
   "id": "bitdkr",
-  "title": "Translation : Korean [BITD]",
+  "title": "Translation : Korean [BitD]",
   "description": "어둠 속의 칼날(Blades in the Dark)의 한국어 번역 모듈입니다.",
   "authors": [
     {
@@ -8,7 +8,7 @@
 		"url": "Discord: akasha0513"
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "3.0.0",
     "verified": "12.331"

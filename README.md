@@ -15,7 +15,7 @@
 
 ## 저작권/라이선스 (Credits/License)
 
-본 작업물은 One Seven Design의 John Harper가 개발하고 제작한 Blades in the Dark([http://www.bladesinthedark.com/)를](http://www.bladesinthedark.com/)를) 기반으로 하며, 크리에이티브 커먼즈 저작자표시 3.0 Unported 라이선스([http://creativecommons.org/licenses/by/3.0/)에](http://creativecommons.org/licenses/by/3.0/)에) 따라 사용 허가를 받았습니다.
+본 작업물은 One Seven Design의 John Harper가 개발하고 제작한 [Blades in the Dark](http://www.bladesinthedark.com/)를 기반으로 하며, [크리에이티브 커먼즈 저작자표시 3.0 Unported 라이선스](http://creativecommons.org/licenses/by/3.0/)에 따라 사용 허가를 받았습니다.
 
 상세 라이선스: [https://bladesinthedark.com/licensing](https://bladesinthedark.com/licensing)
 

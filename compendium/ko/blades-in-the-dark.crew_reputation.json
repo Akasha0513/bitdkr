@@ -1,0 +1,72 @@
+{
+  "label": "조직 평판",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Alluring": {
+      "name": "매혹적인",
+      "description": ""
+    },
+    "Ambitious": {
+      "name": "야심 많은",
+      "description": ""
+    },
+    "Brutal": {
+      "name": "잔혹한",
+      "description": ""
+    },
+    "Cruel": {
+      "name": "잔인한",
+      "description": ""
+    },
+    "Daring": {
+      "name": "대담한",
+      "description": ""
+    },
+    "Ferocious": {
+      "name": "사나운",
+      "description": ""
+    },
+    "Honorable": {
+      "name": "명예로운",
+      "description": ""
+    },
+    "Monstrous": {
+      "name": "괴물 같은",
+      "description": ""
+    },
+    "Professional": {
+      "name": "프로다운",
+      "description": ""
+    },
+    "Radiant": {
+      "name": "찬란한",
+      "description": ""
+    },
+    "Savvy": {
+      "name": "영리한",
+      "description": ""
+    },
+    "Serene": {
+      "name": "평온한",
+      "description": ""
+    },
+    "Sinister": {
+      "name": "음험한",
+      "description": ""
+    },
+    "Strange": {
+      "name": "괴상한",
+      "description": ""
+    },
+    "Subtle": {
+      "name": "은밀한",
+      "description": ""
+    },
+    "Transcendent": {
+      "name": "초월적",
+      "description": ""
+    }
+  }
+}

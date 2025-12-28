@@ -1,0 +1,298 @@
+{
+  "label": "조직 업그레이드",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(A) Assassin Rigging": {
+      "name": "(A) 자객 멜빵",
+      "description": "무기나 장비 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 권총 (무기)과 도둑질 장비 (장비)를 하중 0으로 휴대할 수 있습니다.",
+      "class": "자객단"
+    },
+    "(A) Elite Skulks": {
+      "name": "(A) 정예 생쥐",
+      "description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "자객단"
+    },
+    "(A) Elite Thugs": {
+      "name": "(A) 정예 깡패",
+      "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "자객단"
+    },
+    "(A) Hardened": {
+      "name": "(A) 역전의 용사",
+      "description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+      "class": "자객단"
+    },
+    "(A) Ironhook Contacts": {
+      "name": "(A) 쇠갈고리 연줄",
+      "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
+      "class": "자객단"
+    },
+    "(B) Bravos Rigging": {
+      "name": "(B) 건달 멜빵",
+      "description": "무기나 갑옷 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 검과 권총을 하중 0으로, 또는 보통 갑옷을 하중 0으로 휴대할 수 있습니다.",
+      "class": "건달패"
+    },
+    "(B) Elite Rovers": {
+      "name": "(B) 정예 떠돌이",
+        "description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "건달패"
+    },
+    "(B) Elite Thugs": {
+      "name": "(B) 정예 깡패",
+      "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "건달패"
+    },
+    "(B) Hardened": {
+      "name": "(B) 역전의 용사",
+		"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+      "class": "건달패"
+    },
+    "(B) Ironhook Contacts": {
+      "name": "(B) 쇠갈고리 연줄",
+      "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
+      "class": "건달패"
+    },
+    "(C) Cult Rigging": {
+      "name": "(C) 교단 멜빵",
+      "description": "문서나 마도/종교 용품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 고서 한 권과 악마의 손을 하중 0으로 휴대할 수 있습니다.",
+      "class": "교단"
+    },
+    "(C) Elite Adepts": {
+      "name": "(C) 정예 식자",
+      "description": "식자 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "교단"
+    },
+    "(C) Elite Thugs": {
+      "name": "(C) 정예 깡패",
+      "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "교단"
+    },
+    "(C) Ordained": {
+      "name": "(C) 사제의 자격",  
+		"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+      "class": "교단"
+    },
+    "(C) Ritual Sanctum in Lair": {
+      "name": "(C) 의식의 성소",
+      "description": "소굴 안에 신성한 마도 공방이 있어서 오컬트 작업과 의식에 쓸 수 있습니다.",
+      "class": "교단"
+    },
+    "(H) Composed": {
+      "name": "(H) 침착",
+      "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+      "class": "암상회"
+    },
+    "(H) Elite Rooks": {
+      "name": "(H) 정예 박쥐",
+      "description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "암상회"
+    },
+    "(H) Elite Thugs": {
+      "name": "(H) 정예 깡패",
+      "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "암상회"
+    },
+    "(H) Hawker Rigging": {
+      "name": "(H) 암상인 멜빵",
+      "description": "물건 하나를 숨기고, 하중 0으로 휴대할 수 있습니다. 몸을 더듬어도 못 찾는 마약 한 덩어리나 권총 한 자루를 하중 0으로 휴대할 수 있습니다."
+    },
+    "(H) Ironhook Contacts": {
+      "name": "(H) 쇠갈고리 연줄",
+      "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
+      "class": "암상회"
+    },
+    "(Sh) Elite Rooks": {
+      "name": "(Sh) 정예 박쥐",
+      "description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "그림자들"
+    },
+    "(Sh) Elite Skulks": {
+      "name": "(Sh) 정예 생쥐",
+      "description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "그림자들"
+    },
+    "(Sh) Steady": {
+      "name": "(Sh) 침착",
+      "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+      "class": "그림자들"
+    },
+    "(Sh) Thief Rigging": {
+      "name": "(Sh) 도둑 멜빵",
+      "description": "공구나 장비 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 땜질 공구와 도둑질 장비를 하중 0으로 휴대할 수 있습니다.",
+      "class": "그림자들"
+    },
+    "(Sh) Underground Maps and Passkeys": {
+      "name": "(Sh) 지하 지도와 열쇠들",
+      "description": "지저 운하, 터널, 시내 건물들의 지하실을 쉽게 지나다닐 수 있습니다.",
+      "class": "그림자들"
+    },
+    "(Sm) Barge": {
+      "name": "(Sm) 바지선",
+      "description": "소굴에 기동성이 추가됩니다. 막간 활동 1회를 써서 새 위치로 옮길 수 있습니다.",
+      "class": "밀수단"
+    },
+    "(Sm) Camouflage": {
+      "name": "(Sm) 위장",
+      "description": "탈것이 움직이지 않으면 완벽히 은닉됩니다. 풍경에 녹아드는 것일 수도, 극히 평범한 민간용 탈것으로 보이는 것일 수도 있습니다 (플레이어들이 선택).",
+      "class": "밀수단"
+    },
+    "(Sm) Elite Rovers": {
+      "name": "(Sm) 정예 떠돌이",
+        "description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+      "class": "밀수단"
+    },
+    "(Sm) Smuggler Rigging": {
+      "name": "(Sm) 밀수꾼 멜빵",
+      "description": "하중 2만큼을 숨기고 하중 0으로 휴대할 수 있습니다. 몸을 더듬어도 못 찾는 금수품 한 덩어리와 권총 하나를 하중 0으로 휴대할 수 있습니다.",
+      "class": "밀수단"
+    },
+    "(Sm) Steady": {
+      "name": "(Sm) 침착",
+      "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+      "class": "밀수단"
+    },
+    "(Sm) Vehicle 1": {
+      "name": "(Sm) 탈것 1",
+      "description": "밀수단은 모두 탈것 하나를 갖고 시작합니다.",
+      "class": "밀수단"
+    },
+    "(Sm) Vehicle 2": {
+      "name": "(Sm) 탈것 2",
+      "description": "탈것을 업그레이드하면 (2번째 칸) 갑옷이 생깁니다.",
+      "class": "밀수단"
+    },
+    "Boat House 1": {
+      "name": "배",
+      "description": "배 한 척, 운하에 접한 선착장, 배 관련 물품을 저장할 작은 창고가 있습니다.",
+      "class": ""
+    },
+    "Boat House 2": {
+      "name": "배 2",
+      "description": "2단계 업그레이드를 하면 배에 갑옷이 생기고 화물 적재량도 많아집니다.",
+      "class": ""
+    },
+    "Carriage House 1": {
+      "name": "수레",
+      "description": "수레와 염소 두 마리, 외양간이 있습니다. 도스크볼에는 말이 매우 드물며, 대부분의 수레는 덩치 큰 아코로스 염소가 끕니다.",
+      "class": ""
+    },
+    "Carriage House 2": {
+      "name": "수레 2",
+      "description": "2단계 업그레이드를 하면 수레에 갑옷이 생기고 더 크고 빠른 염소가 생깁니다.",
+      "class": ""
+    },
+    "Cohort 1": {
+      "name": "부하 1",
+      "description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다.",
+      "class": ""
+    },
+    "Cohort 2": {
+      "name": "부하 2",
+      "description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다.",
+      "class": ""
+    },
+    "Cohort 3": {
+      "name": "부하 3",
+      "description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다.",
+      "class": ""
+    },
+    "Cohort 4": {
+      "name": "부하 4",
+      "description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다.",
+      "class": ""
+    },
+    "Hidden Lair": {
+      "name": "은폐",
+      "description": "조직의 소굴은 비밀 장소에 있고, 척 봐서 알지 못하도록 위장되어 있습니다. 소굴이 발각되면 막간 활동 2회와 조직 등급만큼의 금전을 써서 다시 숨길 수 있습니다.",
+      "class": ""
+    },
+    "Mastery": {
+      "name": "한계 돌파",
+      "description": "조직이 최고급 훈련을 받을 수 있습니다. PC들의 행동 수치가 최대 4까지 올라갈 수 있습니다 (이 업그레이드를 선택하기 전에는 3이 최대치입니다). 한계 돌파는 업그레이드 칸 4개를 채워야 발동됩니다.",
+      "class": ""
+    },
+    "Quality: Arcane Implements": {
+      "name": "품질: 마도 용품",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다.",
+      "class": ""
+    },
+    "Quality: Documents": {
+      "name": "품질: 문서",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다.",
+      "class": ""
+    },
+    "Quality: Gear": {
+      "name": "품질: 장비",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다. (도둑질 장비와 등반 장비)",
+      "class": ""
+    },
+    "Quality: Subterfuge Supplies": {
+      "name": "품질: 기만술 물자",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다.",
+      "class": ""
+    },
+    "Quality: Tools": {
+      "name": "품질: 공구",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다. (파괴 공구와 땜질 공구)",
+      "class": ""
+    },
+    "Quality: Weapons": {
+      "name": "품질: 무기",
+      "description": "업그레이드 하나마다 PC들이 사용하는 해당 유형 물품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다.",
+      "class": ""
+    },
+    "Quarters": {
+      "name": "숙소",
+      "description": "소굴에 숙소가 마련되어 있습니다. 이 업그레이드가 없으면 PC들은 각각 다른 곳에서 잠을 자기 때문에 위험에 노출됩니다.",
+      "class": ""
+    },
+    "Secure Lair 1": {
+      "name": "보안",
+      "description": "소굴에 침입자를 막기 위한 자물쇠, 경보기, 덫이 설치되어 있습니다. 보안이 침입자들에게 얼마나 유효한지 보려면 보통은 조직의 등급으로 판정합니다.",
+      "class": ""
+    },
+    "Secure Lair 2": {
+      "name": "보안 2",
+      "description": "2단계 업그레이드를 하면 영에 대해서도 통하는 마도적 방어 수단까지 갖추게 됩니다.",
+      "class": ""
+    },
+    "Training: Insight": {
+      "name": "훈련: 통찰",
+      "description": "이 업그레이드가 있으면 해당 xp란은 막간에 훈련을 하면 xp가 1이 아니라 2 증가합니다. 이 업그레이드는 캐릭터가 더 빨리 성장하게 해 줍니다.",
+      "class": ""
+    },
+    "Training: Personal Exp": {
+      "name": "훈련: 플레이북 xp",
+      "description": "이 업그레이드가 있으면 해당 xp란은 막간에 훈련을 하면 xp가 1이 아니라 2 증가합니다. 이 업그레이드는 캐릭터가 더 빨리 성장하게 해 줍니다.",
+      "class": ""
+    },
+    "Training: Prowess": {
+      "name": "훈련: 체력",
+      "description": "이 업그레이드가 있으면 해당 xp란은 막간에 훈련을 하면 xp가 1이 아니라 2 증가합니다. 이 업그레이드는 캐릭터가 더 빨리 성장하게 해 줍니다.",
+      "class": ""
+    },
+    "Training: Resolve": {
+      "name": "훈련: 의지",
+      "description": "이 업그레이드가 있으면 해당 xp란은 막간에 훈련을 하면 xp가 1이 아니라 2 증가합니다. 이 업그레이드는 캐릭터가 더 빨리 성장하게 해 줍니다.",
+      "class": ""
+    },
+    "Vault 1": {
+      "name": "금고실",
+      "description": "소굴에 안전한 금고실이 있어, 8 금전까지 저장할 수 있습니다.", 
+		"class": ""
+    },
+    "Vault 2": {
+      "name": "금고실 2",
+      "description": "2단계 업그레이드를 하면 16 금전까지 저장이 가능합니다. 금고실에는 감방으로 쓸 만한 공간이 딸려 있습니다.",
+      "class": ""
+    },
+    "Workshop": {
+      "name": "공방",
+      "description": "소굴에 연금술과 땜질에 쓸 만한 공방과 더불어 책, 문서, 지도가 갖춰진 작은 서재가 있습니다. 이로써 소굴을 떠나지 않고도 장기 프로젝트를 달성할 수 있습니다.",
+      "class": ""
+    }
+  }
+}

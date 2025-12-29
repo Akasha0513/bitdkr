@@ -8,7 +8,7 @@
 		"url": "Discord: akasha0513"
     }
   ],
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "3.0.0",
     "verified": "13.351"
@@ -19,7 +19,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "bitd",
+        "id": "blades-in-the-dark",
         "type": "system",
         "compatibility": {
           "minimum": "3.0.0",

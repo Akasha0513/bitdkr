@@ -6,161 +6,161 @@
   },
   "entries": {
     "(A) Assassin Rigging": {
-      "name": "(A) 자객 멜빵",
+      "name": "(자) 자객 멜빵",
       "description": "무기나 장비 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 권총 (무기)과 도둑질 장비 (장비)를 하중 0으로 휴대할 수 있습니다.",
       "class": "자객단"
     },
     "(A) Elite Skulks": {
-      "name": "(A) 정예 생쥐",
+      "name": "(자) 정예 생쥐",
       "description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "자객단"
     },
     "(A) Elite Thugs": {
-      "name": "(A) 정예 깡패",
+      "name": "(자) 정예 깡패",
       "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "자객단"
     },
     "(A) Hardened": {
-      "name": "(A) 역전의 용사",
+      "name": "(자) 역전의 용사",
       "description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
       "class": "자객단"
     },
     "(A) Ironhook Contacts": {
-      "name": "(A) 쇠갈고리 연줄",
+      "name": "(자) 쇠갈고리 연줄",
       "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
       "class": "자객단"
     },
     "(B) Bravos Rigging": {
-      "name": "(B) 건달 멜빵",
+      "name": "(건) 건달 멜빵",
       "description": "무기나 갑옷 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 검과 권총을 하중 0으로, 또는 보통 갑옷을 하중 0으로 휴대할 수 있습니다.",
       "class": "건달패"
     },
     "(B) Elite Rovers": {
-      "name": "(B) 정예 떠돌이",
+      "name": "(건) 정예 떠돌이",
         "description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "건달패"
     },
     "(B) Elite Thugs": {
-      "name": "(B) 정예 깡패",
+      "name": "(건) 정예 깡패",
       "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "건달패"
     },
     "(B) Hardened": {
-      "name": "(B) 역전의 용사",
+      "name": "(건) 역전의 용사",
 		"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
       "class": "건달패"
     },
     "(B) Ironhook Contacts": {
-      "name": "(B) 쇠갈고리 연줄",
+      "name": "(건) 쇠갈고리 연줄",
       "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
       "class": "건달패"
     },
     "(C) Cult Rigging": {
-      "name": "(C) 교단 멜빵",
+      "name": "(교) 교단 멜빵",
       "description": "문서나 마도/종교 용품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 고서 한 권과 악마의 손을 하중 0으로 휴대할 수 있습니다.",
       "class": "교단"
     },
     "(C) Elite Adepts": {
-      "name": "(C) 정예 식자",
+      "name": "(교) 정예 식자",
       "description": "식자 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "교단"
     },
     "(C) Elite Thugs": {
-      "name": "(C) 정예 깡패",
+      "name": "(교) 정예 깡패",
       "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "교단"
     },
     "(C) Ordained": {
-      "name": "(C) 사제의 자격",  
+      "name": "(교) 사제의 자격",  
 		"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
       "class": "교단"
     },
     "(C) Ritual Sanctum in Lair": {
-      "name": "(C) 의식의 성소",
+      "name": "(교) 의식의 성소",
       "description": "소굴 안에 신성한 마도 공방이 있어서 오컬트 작업과 의식에 쓸 수 있습니다.",
       "class": "교단"
     },
     "(H) Composed": {
-      "name": "(H) 침착",
+      "name": "(암) 침착",
       "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
       "class": "암상회"
     },
     "(H) Elite Rooks": {
-      "name": "(H) 정예 박쥐",
+      "name": "(암) 정예 박쥐",
       "description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "암상회"
     },
     "(H) Elite Thugs": {
-      "name": "(H) 정예 깡패",
+      "name": "(암) 정예 깡패",
       "description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "암상회"
     },
     "(H) Hawker Rigging": {
-      "name": "(H) 암상인 멜빵",
+      "name": "(암) 암상인 멜빵",
       "description": "물건 하나를 숨기고, 하중 0으로 휴대할 수 있습니다. 몸을 더듬어도 못 찾는 마약 한 덩어리나 권총 한 자루를 하중 0으로 휴대할 수 있습니다."
     },
     "(H) Ironhook Contacts": {
-      "name": "(H) 쇠갈고리 연줄",
+      "name": "(암) 쇠갈고리 연줄",
       "description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정 (p.148)을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
       "class": "암상회"
     },
     "(Sh) Elite Rooks": {
-      "name": "(Sh) 정예 박쥐",
+      "name": "(그) 정예 박쥐",
       "description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "그림자들"
     },
     "(Sh) Elite Skulks": {
-      "name": "(Sh) 정예 생쥐",
+      "name": "(그) 정예 생쥐",
       "description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "그림자들"
     },
     "(Sh) Steady": {
-      "name": "(Sh) 침착",
+      "name": "(그) 침착",
       "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
       "class": "그림자들"
     },
     "(Sh) Thief Rigging": {
-      "name": "(Sh) 도둑 멜빵",
+      "name": "(그) 도둑 멜빵",
       "description": "공구나 장비 물품을 하중 2어치 공짜로 선택할 수 있습니다. 예를 들어 땜질 공구와 도둑질 장비를 하중 0으로 휴대할 수 있습니다.",
       "class": "그림자들"
     },
     "(Sh) Underground Maps and Passkeys": {
-      "name": "(Sh) 지하 지도와 열쇠들",
+      "name": "(그) 지하 지도와 열쇠들",
       "description": "지저 운하, 터널, 시내 건물들의 지하실을 쉽게 지나다닐 수 있습니다.",
       "class": "그림자들"
     },
     "(Sm) Barge": {
-      "name": "(Sm) 바지선",
+      "name": "(밀) 바지선",
       "description": "소굴에 기동성이 추가됩니다. 막간 활동 1회를 써서 새 위치로 옮길 수 있습니다.",
       "class": "밀수단"
     },
     "(Sm) Camouflage": {
-      "name": "(Sm) 위장",
+      "name": "(밀) 위장",
       "description": "탈것이 움직이지 않으면 완벽히 은닉됩니다. 풍경에 녹아드는 것일 수도, 극히 평범한 민간용 탈것으로 보이는 것일 수도 있습니다 (플레이어들이 선택).",
       "class": "밀수단"
     },
     "(Sm) Elite Rovers": {
-      "name": "(Sm) 정예 떠돌이",
+      "name": "(밀) 정예 떠돌이",
         "description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
       "class": "밀수단"
     },
     "(Sm) Smuggler Rigging": {
-      "name": "(Sm) 밀수꾼 멜빵",
+      "name": "(밀) 밀수꾼 멜빵",
       "description": "하중 2만큼을 숨기고 하중 0으로 휴대할 수 있습니다. 몸을 더듬어도 못 찾는 금수품 한 덩어리와 권총 하나를 하중 0으로 휴대할 수 있습니다.",
       "class": "밀수단"
     },
     "(Sm) Steady": {
-      "name": "(Sm) 침착",
+      "name": "(밀) 침착",
       "description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
       "class": "밀수단"
     },
     "(Sm) Vehicle 1": {
-      "name": "(Sm) 탈것 1",
+      "name": "(밀) 탈것 1",
       "description": "밀수단은 모두 탈것 하나를 갖고 시작합니다.",
       "class": "밀수단"
     },
     "(Sm) Vehicle 2": {
-      "name": "(Sm) 탈것 2",
+      "name": "(밀) 탈것 2",
       "description": "탈것을 업그레이드하면 (2번째 칸) 갑옷이 생깁니다.",
       "class": "밀수단"
     },

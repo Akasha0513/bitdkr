@@ -8,7 +8,7 @@
 		"url": "Discord: akasha0513"
     }
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "3.0.0",
     "verified": "13.351"
@@ -17,6 +17,16 @@
     "register.js"
   ],
   "relationships": {
+    "systems": [
+      {
+        "id": "bitd",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0.0",
+          "verified": "6.0.4"
+        }
+      }
+    ],
     "requires": [
       {
         "id": "babele",

@@ -1,0 +1,12 @@
+.blades-in-the-dark .black-label {
+  font-family: 'Signika';
+  font-size: 18px;
+  white-space: nowrap;
+}
+.blades-in-the-dark.actor.pc * .big-teeth-section .trauma-list {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
+.blades-in-the-dark.actor.pc * .big-teeth-section .trauma-list label {
+ font-family: 'Signika';
+}

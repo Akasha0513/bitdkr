@@ -8,7 +8,7 @@
 		"url": "Discord: akasha0513"
     }
   ],
-  "version": "1.0.10",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "3.0.0",
     "verified": "13.351"
@@ -42,6 +42,9 @@
       "name": "한국어(Korean)",
       "path": "ko.json"
     }
+  ],
+    "styles": [
+    "style.css"
   ],
 	
   "url": "https://github.com/Akasha0513/bitdkr",
